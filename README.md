@@ -1,7 +1,3 @@
-# Globalstore-Tableau-Dashboard
-Interactive Tableau dashboard analysing sales performance, profit, and customer trends using the Global Superstore dataset.
-
-
 # Global Superstore Tableau Dashboard 📊
 
 ## Overview
